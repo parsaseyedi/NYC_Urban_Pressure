@@ -43,9 +43,9 @@ Main methods include:
 ## Data Access
 
 Large raw data files are not committed directly to this repository. The raw data snapshot used in the project is provided as a GitHub Release asset named `data.zip`.
+https://github.com/parsaseyedi/NYC_Urban_Pressure/releases/download/v1.0-data/data.zip
 
 After downloading, extract `data.zip` into the project root so that the folder structure becomes:
-
 ```text
 NYC_Urban_Pressure/
                   -data          
