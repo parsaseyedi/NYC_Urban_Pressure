@@ -1,0 +1,12 @@
+feature,importance
+class_c_violations_per_1000_residents,0.2559066854039824
+complaints_per_1000_residents,0.24449679590124204
+violations_per_1000_residents,0.19134420836053986
+poverty_rate_pct,0.08565362534327697
+median_household_income,0.06195661295751891
+unemployment_rate_pct,0.05323501961901296
+entire_home_share,0.03317644742223418
+high_availability_share,0.019349141787021438
+rent_burden_rate_pct,0.019323482776352294
+airbnb_per_1000_residents,0.018118055860053824
+evictions_per_1000_renter_units,0.017439924568765117
